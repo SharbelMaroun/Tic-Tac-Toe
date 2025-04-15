@@ -8,7 +8,7 @@ It includes a graphical user interface (JavaFX) and serves as an educational exa
 
 ---
 
-## 🧩 Structure
+## Structure
 This project contains three main modules:
 
 1. **client** - A JavaFX client that interacts with the server and uses EventBus (Mediator Pattern) for internal communication between components like `SimpleClient` and `PrimaryController`.
@@ -19,4 +19,4 @@ This project contains three main modules:
 
 ---
 
-## 🚀 Running the Project
+## Running the Project
