@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="il.cshaifasweng.server.AppTest" time="0.09" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="23"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1255"/>
+    <property name="java.class.path" value="C:\Users\שרבל\OneDrive\Desktop\intellij\Lab\lab5+-w25-rasha-sharbel\server\target\test-classes;C:\Users\שרבל\OneDrive\Desktop\intellij\Lab\lab5+-w25-rasha-sharbel\server\target\classes;C:\Users\שרבל\.m2\repository\junit\junit\4.13.1\junit-4.13.1.jar;C:\Users\שרבל\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\שרבל\.m2\repository\il\cshaifasweng\OCSFMediatorExample\entities\0.0.1-SNAPSHOT\entities-0.0.1-SNAPSHOT.jar;C:\Users\שרבל\.m2\repository\org\greenrobot\eventbus\3.2.0\eventbus-3.2.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Jerusalem"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="23"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IL"/>
+    <property name="sun.boot.library.path" value="C:\Users\שרבל\.jdks\openjdk-23.0.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\3E92~1\AppData\Local\Temp\surefire3362282740157982935\surefirebooter3100138188912608650.jar C:\Users\שרבל\AppData\Local\Temp\surefire3362282740157982935 2024-12-22T22-59-19_065-jvmRun1 surefire1438677614555571254tmp surefire_011269665925932205721tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\שרבל\OneDrive\Desktop\intellij\Lab\lab5+-w25-rasha-sharbel\server\target\test-classes;C:\Users\שרבל\OneDrive\Desktop\intellij\Lab\lab5+-w25-rasha-sharbel\server\target\classes;C:\Users\שרבל\.m2\repository\junit\junit\4.13.1\junit-4.13.1.jar;C:\Users\שרבל\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\שרבל\.m2\repository\il\cshaifasweng\OCSFMediatorExample\entities\0.0.1-SNAPSHOT\entities-0.0.1-SNAPSHOT.jar;C:\Users\שרבל\.m2\repository\org\greenrobot\eventbus\3.2.0\eventbus-3.2.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\שרבל"/>
+    <property name="user.language" value="he"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-10-15"/>
+    <property name="java.home" value="C:\Users\שרבל\.jdks\openjdk-23.0.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\שרבל\OneDrive\Desktop\intellij\Lab\lab5+-w25-rasha-sharbel\server"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\3E92~1\AppData\Local\Temp\surefire3362282740157982935\surefirebooter3100138188912608650.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="23.0.1+11-39"/>
+    <property name="user.name" value="שרבל"/>
+    <property name="stdout.encoding" value="Cp1255"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\שרבל\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\3E92~1\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2024.1.1"/>
+    <property name="java.version" value="23.0.1"/>
+    <property name="user.dir" value="C:\Users\שרבל\OneDrive\Desktop\intellij\Lab\lab5+-w25-rasha-sharbel\server"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1255"/>
+    <property name="java.library.path" value="C:\Users\שרבל\.jdks\openjdk-23.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-23\bin;C:\Users\שרבל\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\שרבל\AppData\Local\Programs\Python\Python312\;C:\Users\שרבל\AppData\Local\Programs\Microsoft VS Code\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1255"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="23.0.1+11-39"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="67.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="il.cshaifasweng.server.AppTest" time="0.005"/>
+</testsuite>
